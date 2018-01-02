@@ -1,0 +1,34 @@
+far 1
+display 1
+make 1
+java 2
+wm_transient_for 1
+wrt 1
+need 2
+using 1
+parent 2
+only 1
+underlying 1
+this 2
+way 2
+application 1
+transient 1
+property 1
+embed 1
+window 4
+host 1
+there 1
+motif 3
+legacy 1
+swing 1
+c++ 1
+any 1
+is 1
+know 3
+how 1
+drawn 1
+shell 3
+obtain 1
+the 1
+
+

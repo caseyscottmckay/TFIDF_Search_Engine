@@ -1,0 +1,36 @@
+advance 1
+suggest 1
+line 1
+ying 1
+located 1
+better 1
+organization 1
+they 1
+manager 4
+subject 1
+replacement 2
+someone 1
+from 1
+12 1
+ftp 1
+engineering 1
+file 2
+please 1
+program 2
+one 1
+response 1
+hawaii 1
+there 1
+yuan@wilikienghawaiiedu 2
+thank 1
+_shareware_ 1
+e-mail 1
+yuan 1
+site 1
+university 1
+college 1
+maw 1
+at 1
+win31 1
+
+

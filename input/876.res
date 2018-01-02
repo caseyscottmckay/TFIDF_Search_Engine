@@ -1,0 +1,32 @@
+zoom 1
+hanover 1
+70-210 2
+offer 1
+line 1
+organization 1
+subject 1
+looking 1
+this 1
+forsale 1
+nikkor 2
+college 1
+excellent 1
+nh 1
+$175 1
+selling 1
+get 1
+i'm 2
+from 1
+dartmouth 1
+rupin 1
+please 1
+rupindang@dartmouthedu 1
+asking 1
+condition 1
+len 1
+f4-56 1
+dang 1
+version 1
+the 1
+
+

@@ -1,0 +1,33 @@
+sanjay 2
+support 1
+system 1
+sensitive 2
+decwrladobebaldwa 1
+line 1
+baldwa 1
+mountain 1
+view 1
+organization 1
+subject 1
+appreciate 1
+pointers 1
+from 1
+-- 1
+supporting 1
+adobe 1
+there 1
+distribution 1
+will 1
+thank 1
+vendor 1
+tabletpen 1
+baldwa@adobecom 2
+usa 1
+comp 1
+tablet 1
+pressure 2
+baldwa@antietamadobecom 1
+any 2
+reply-to 1
+
+

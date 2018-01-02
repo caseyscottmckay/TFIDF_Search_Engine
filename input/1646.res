@@ -1,0 +1,32 @@
+jet 1
+hello 1
+advance 1
+printer 1
+germany 1
+line 1
+i'm 1
+organization 1
+subject 1
+looking 1
+from 1
+driver 2
+3852 1
+19 1
+huebner 1
+ralf 2
+wanted 1
+pointer 1
+ipvr 1
+thank 1
+3852-2 1
+university 1
+ibm 1
+stuttgart 1
+any 1
+color 1
+ink 1
+reply-to 1
+welcome 1
+huebner@informatikuni-stuttgartde 3
+
+

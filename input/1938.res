@@ -1,0 +1,35 @@
+anyone 1
+carleton 1
+where 1
+relevant 1
+vesa 4
+line 1
+jimmy 1
+get 1
+organization 1
+subject 2
+thia 1
+this 1
+from 1
+was 1
+-- 1
+out 1
+yong 1
+book 1
+there 1
+distribution 1
+wondering 1
+can 1
+bus 1
+regards 1
+university 1
+keyword 1
+any 1
+na 1
+local 1
+summary 1
+thia@scecarletonca 1
+point 1
+specification 1
+
+

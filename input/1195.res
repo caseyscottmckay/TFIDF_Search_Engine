@@ -1,0 +1,33 @@
+eigil 2
+daimi 1
+advance 1
+run 1
+krogh 2
+very 1
+line 1
+x-window 2
+hear 1
+s|rensen 1
+computer 1
+department 1
+organization 1
+subject 1
+eks@daimiaaudk 1
+from 1
+happy 1
+sorensen 1
+about 1
+aarhu 1
+package 1
+thanx 1
+science 1
+exist 1
+university 1
+maybe 1
+pc 1
+it 1
+dos 1
+ms-windows 1
+denmark 1
+
+

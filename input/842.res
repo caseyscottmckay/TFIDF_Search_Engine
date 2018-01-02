@@ -1,0 +1,37 @@
+writes 1
+under 1
+mailed 1
+ftp'd 1
+like 1
+line 1
+organization 1
+subject 1
+this 1
+12 1
+tell 1
+address@eicnetnach 1
+your 1
+you 4
+indicate 1
+michael 2
+na 1
+wayne 2
+ms-dos 2
+have 1
+mail 1
+recently 1
+gnu-cc 1
+wdm@worldstdcom 2
+where 2
+gnuish 1
+address 1
+from 2
+found 1
+subdirectory 1
+please 1
+e-mail 1
+copy 1
+>hi 1
+post 1
+
+

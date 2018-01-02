@@ -1,0 +1,36 @@
+confused 1
+root 1
+[bitmap] 1
+line 1
+soft 1
+mol-vara 1
+organization 1
+subject 1
+from 1
+was 1
+between 1
+cxjijaux 1
+chung 1
+kaj 1
+mean 1
+konfuzigxa 1
+electronic 1
+software 1
+*gxong* 1
+bmp 1
+ofte 1
+imaging 1
+pri 1
+pardonon 1
+dchung@eficom 1
+format 1
+mola 1
+what 1
+daniel 1
+inc 1
+reply-to 1
+hard 1
+doe 1
+malmola 1
+
+

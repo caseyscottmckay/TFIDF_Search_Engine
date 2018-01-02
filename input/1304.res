@@ -1,0 +1,35 @@
+fisher@lyrahaccom 2
+rather 1
+snapshot 2
+under 1
+press 1
+email 1
+line 1
+organization 1
+screen 2
+subject 1
+hughe 1
+similar 1
+save 1
+root@lyrascghaccom 1
+way 2
+from 1
+10 1
+than 1
+file 1
+please 1
+window 1
+one 1
+there 1
+thank 1
+aircraft 1
+cmd-shift-3 1
+mac 1
+ca 1
+posting 1
+reply-to 1
+dave 3
+carlsbad 1
+fisher 3
+
+

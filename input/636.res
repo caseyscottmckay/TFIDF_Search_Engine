@@ -1,0 +1,37 @@
+capability 1
+super 2
+must 1
+line 1
+chungwan 1
+kim 1
+anybody 1
+subject 1
+looking 1
+kimd@rs6401ecsrpiedu 1
+11 1
+brand 1
+has 1
+name 1
+there 1
+sounds 2
+keyword 1
+projector 3
+email 1
+8mm 2
+rs6401ecsrpiedu 1
+sale 2
+from 1
+price 1
+kimd@rpiedu 2
+out 1
+for 1
+wanted 2
+one 1
+nntp-posting-host 1
+condition 1
+sound 1
+semd 1
+danny 1
+daniel 1
+
+

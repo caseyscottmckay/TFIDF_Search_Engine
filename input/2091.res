@@ -1,0 +1,32 @@
+rgb 1
+necessarily 1
+card 1
+not 1
+line 1
+view 1
+represent 1
+organization 1
+ricky@watsonibmcom 1
+poster 1
+subject 1
+this 2
+from 1
+m-motion 1
+about 1
+turner 1
+rick 2
+video 1
+nntp-posting-host 1
+yuv 1
+you 1
+ibm 2
+posting 1
+i'll 1
+daneburyhursleyibmcom 1
+those 1
+disclaimer 1
+contact 1
+offline 1
+labs 1
+
+

@@ -1,0 +1,33 @@
+anyone 1
+montreal 1
+line 1
+socs 1
+organization 1
+subject 1
+gel@csmcgillca 1
+12 1
+canada 1
+window 1
+beta 3
+just 1
+university 1
+khouzam 1
+how 2
+part 1
+thanks 1
+new 1
+get 2
+from 1
+was 1
+please 1
+program 1
+wondering 1
+mcgill 1
+e-mail 1
+windows 1
+reply 1
+gel@binkleycsmcgillca 1
+gille 1
+version 1
+
+

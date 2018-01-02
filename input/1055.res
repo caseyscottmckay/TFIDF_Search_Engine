@@ -1,0 +1,36 @@
+told 1
+hewlett-packard 1
+==doug 1
+freeway 1
+angele 1
+pl89] 1
+san 1
+line 1
+[version 1
+organization 1
+traffic 1
+subject 1
+knx 1
+from 1
+reports 1
+hprtnyccuphpcom 1
+oop 1
+x-newsreader 1
+fran 1
+nntp-posting-host 1
+claar 2
+webb 1
+los 1
+down 1
+doug 1
+'the 1
+city' 1
+'frisco 1
+680 1
+dclaar@cuphpcom 1
+jack 1
+1070 1
+tin 1
+knbr 1
+
+

@@ -1,0 +1,37 @@
+anyone 1
+looked 1
+grayscale 1
+some 1
+line 1
+wandersman 2
+call 1
+subject 1
+looking 1
+seth 2
+morphing 2
+keyword 1
+image 1
+look 1
+know 1
+reply-to 1
+progrmam 1
+should 1
+where 1
+dmorph 1
+archie 1
+not 1
+using 1
+only 1
+called 1
+from 1
+found 1
+program 2
+find 1
+nntp-posting-host 1
+seth@north6acpubdukeedu 2
+north6acpubdukeedu 1
+morpho 1
+doe 1
+dec 1
+
+

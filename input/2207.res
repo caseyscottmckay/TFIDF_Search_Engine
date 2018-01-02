@@ -1,0 +1,33 @@
+itcuva 1
+support 1
+tektronix 2
+community 1
+not 1
+line 1
+something 1
+organization 1
+chapman 1
+subject 1
+middle 1
+mentioning 1
+this 1
+from 1
+server 1
+accurate 1
+access 1
+unixinternet 1
+class 1
+project 1
+terminal 1
+distribution 1
+will 1
+taxe 1
+mike@hopperacsvirginiaedu 1
+raise 1
+seeing 1
+remember 1
+michael 1
+mike@hoppervirginiaedu 1
+-unknown 1
+
+

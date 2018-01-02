@@ -1,0 +1,35 @@
+trick 1
+make 1
+line 1
+westinghouse 1
+organization 1
+william 1
+anybody 1
+subject 1
+from 1
+willing 1
+generated 1
+server 1
+file 1
+config 1
+information 1
+work 1
+window 1
+steerr@h01uucp 1
+steer 2
+has 1
+412374-6367 1
+bill 1
+thank 1
+your 1
+x-server 1
+you 1
+expolcsmiteduxpert@tronbwi 1
+any 1
+internet 1
+nt 1
+necessary 1
+other 1
+share 1
+
+

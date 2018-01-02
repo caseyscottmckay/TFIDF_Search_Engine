@@ -1,0 +1,35 @@
+line 4
+call 1
+wall 1
+subject 1
+don't 2
+13 1
+want 1
+response 1
+there 2
+can 1
+operator 1
+any 1
+al 1
+situation 1
+it 1
+know 1
+place 1
+trace 1
+mounted 1
+question 1
+device 1
+need 1
+number 3
+from 1
+greetings 1
+out 3
+find 2
+thank 1
+use 1
+phone 2
+jack 1
+alee@ecsumassedu 1
+certain 1
+
+

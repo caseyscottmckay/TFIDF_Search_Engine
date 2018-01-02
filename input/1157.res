@@ -1,0 +1,29 @@
+display 1
+help 1
+problem 1
+appear 2
+working 1
+again 1
+now 1
+apparently 1
+i'm 1
+only 1
+this 1
+was 2
+real 1
+both 1
+server 1
+one 1
+displays 1
+side 1
+reinstalled 1
+thank 1
+offered 1
+thorn 1
+mga_hal 2
+what 1
+caused 1
+removed 1
+thrilled 1
+
+

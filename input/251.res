@@ -1,0 +1,32 @@
+andre' 1
+mehl 1
+andre 1
+abpsoft 1
+world 1
+line 1
+organization 1
+subject 1
+xarchie 1
+-- 1
+brain 1
+dresden 1
+archie-client 1
+beck 2
+irzr17inftu-dresdende 1
+reply-to 1
+dept 1
+inside 1
+germany 1
+computer 1
+get 1
+from 1
+beck@irzr17inftu-dresdende 1
++-o-+--------------------------------------------------------------+-o-+ 2
+nntp-posting-host 1
+distribution 1
+andre_beck@irsinftu-dresdende 2
+science 1
+instead 1
+^^^^^^^^^^^^^^^ 1
+
+

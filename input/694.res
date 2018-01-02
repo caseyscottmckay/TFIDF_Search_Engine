@@ -1,0 +1,30 @@
+times 1
+roam 1
+monday 1
+arena 1
+line 1
+kid 1
+organization 1
+subject 1
+toronto 1
+engineering 1
+golf 1
+kirzyc 1
+university 2
+kielbasa 1
+metropolitan 1
+stamber@rainbowecnpurdueedu 1
+courses 1
+phil 1
+purdue 2
+computer 1
+stamber 2
+from 1
+network 1
+interviews 1
+will 1
+kevin 2
+list 1
+tee 1
+
+

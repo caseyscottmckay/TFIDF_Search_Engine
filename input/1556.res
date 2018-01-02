@@ -1,0 +1,36 @@
+thanks 1
+anyone 1
+<1993apr1916312220454@cbfsbcbattcom> 1
+line 1
+senior 1
+mellon 1
+computer 1
+get 2
+organization 1
+subject 1
+from 1
+after 1
+engineering 1
+carnegie 1
+nntp-posting-host 1
+pittsburgh 1
+there 1
+distribution 1
+usa 1
+dayton 2
+alan 1
+yes 1
+pa 1
+wayne 2
+in-reply-to 1
+electrical 1
+how 1
+po5andrewcmuedu 1
+hamfest 1
+doe 1
+to 1
+<wm1h+@andrewcmuedu> 1
+martin 2
+direction 1
+
+

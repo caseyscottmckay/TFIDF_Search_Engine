@@ -1,0 +1,34 @@
+especially 1
+terribly 1
+penguin 2
+say 1
+outside 1
+line 2
+ohio 1
+organization 1
+they 1
+subject 2
+bottommagnusacsohio-stateedu 1
+dmoney@magnusacsohio-stateedu 2
+university 1
+dean 2
+all 1
+game 1
+how 1
+easy 1
+tickets 3
+money 2
+selling 1
+igloo 1
+now 1
+state 1
+get 2
+from 1
+find 1
+nntp-posting-host 1
+difficult 2
+playoff 1
+would 1
+scalper 1
+
+

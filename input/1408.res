@@ -1,0 +1,29 @@
+right 1
+advance 1
+line 1
+view 1
+who 1
+organization 1
+anybody 1
+subject 1
+tromsoe 1
+from 2
+about 1
+information 1
+interested 1
+has 1
+viewed 1
+there 1
+thank 1
+kjetilk@studcsuitno 1
+also 1
+university 1
+kolin 2
+any 1
+kjetil 2
+mode 3
+point 2
+direction 1
+protected 3
+
+

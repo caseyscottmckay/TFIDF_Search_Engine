@@ -1,0 +1,37 @@
+expertise 1
+involved 1
+wireless 2
+leblanc 1
+michigan 2
+requiring 1
+line 1
+state 1
+organization 1
+subject 1
+leblanc@cvmmsuedu 1
+this 1
+from 1
+application 1
+information 1
+please 1
+company 1
+project 1
+nntp-posting-host 1
+has 1
+veterinary 1
+pat 1
+inst0027cvmmsuedu 1
+transfer 2
+medicine 1
+assist 1
+you 1
+leblanc@cvmmsu 1
+university 1
+college 1
+may 1
+internet 1
+edu 1
+data 2
+contact 1
+
+

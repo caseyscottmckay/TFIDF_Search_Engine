@@ -1,0 +1,35 @@
+step-by-step 1
+upon 1
+technique 1
+effect 2
+visual 1
+special 1
+using 1
+higher 1
+creative 1
+web 1
+enhancing 1
+creating 1
+this 2
+variety 1
+flash 2
+create 1
+highly 1
+video 1
+animation 3
+enjoyable 1
+focu 1
+intermediate 1
+recommended 1
+user 1
+teache 1
+of 1
+how 1
+provide 1
+novice 1
+instruction 1
+course 3
+specific 1
+interactive 2
+
+

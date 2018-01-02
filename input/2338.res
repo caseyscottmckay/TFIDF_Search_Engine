@@ -1,0 +1,31 @@
+loaded 1
+system 1
+card 1
+line 1
+os's 1
+randy@msccornelledu 1
+organization 1
+subject 1
+this 1
+hooked 1
+each 1
+university 1
+all 1
+memory 1
+ide 1
+separate 1
+thanks 1
+cornell 1
+randy 1
+device 2
+from 1
+driver 1
+require 1
+will 1
+also 1
+32-bit 1
+scsi 3
+true 1
+dos 1
+
+

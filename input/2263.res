@@ -1,0 +1,35 @@
+winbench 1
+line 1
+winmark 1
+stealth 1
+organization 1
+score 1
+winmarks 1
+eric 2
+subject 1
+that 1
+balog@eniacseasupennedu 2
+balog 2
+tested 1
+good 1
+you 2
+used 1
+university 1
+idea 1
+hi 1
+diamond 1
+give 1
+from 1
+result 1
+well 1
+giving 1
+nntp-posting-host 1
+resolution 1
+pennsylvania 1
+drivers 1
+eniacseasupennedu 1
+posting 1
+obtain 1
+version 2
+
+

@@ -1,0 +1,34 @@
+chance 1
+fan 1
+anyone 1
+not 1
+line 1
+really 1
+flyer 1
+who 1
+get 1
+organization 1
+subject 1
+from 1
+believe 1
+real 1
+geoff 3
+filinuk 3
+loose 1
+one 1
+nntp-posting-host 1
+pen 2
+playoffs 1
+kidding 1
+pennsylvania 1
+cap 2
+university 1
+staffdccsupennedu 1
+may 1
+beat 1
+game 1
+themselve 1
+reply-to 1
+filinuk@staffdccsupennedu 2
+
+

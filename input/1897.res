@@ -1,0 +1,35 @@
+thanks 1
+eyeswould 1
+line 1
+clipart 1
+gif 1
+i'm 1
+organization 1
+subject 1
+looking 1
+such 1
+from 1
+relating 1
+ajs8@kimbarkuchicagoedu 1
+appreciated 1
+jeremy 1
+ophthalmology 1
+bmp 1
+greatly 1
+request 1
+graphic 2
+chicago 1
+anything 2
+university 1
+adam 1
+lens 1
+weird 1
+know 1
+reply-to 1
+schorr 1
+ajs8@midwayuchicagoedu 1
+needed 1
+contact 1
+eyeglass 1
+
+

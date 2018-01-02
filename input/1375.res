@@ -1,0 +1,31 @@
+thanks 1
+much 1
+problem 1
+line 1
+converted 1
+get 1
+example 1
+screen 1
+subject 1
+pcxbmpgif 1
+from 1
+white 1
+file 1
+window 1
+fine 1
+colors 1
+dan 1
+csc3phx@vaxchofstraedu 1
+yellow 1
+scanning 1
+became 1
+csc3phx@vaxahofstraedu 1
+got 1
+image 1
+look 1
+any 1
+lighter 1
+color 2
+ideas 1
+
+

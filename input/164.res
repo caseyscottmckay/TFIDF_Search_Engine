@@ -1,0 +1,33 @@
+andrea 2
+mail 1
+hello 1
+line 1
+_______________________________________________________________________________ 1
+i'm 1
+organization 1
+subject 1
+looking 1
+from 1
+-- 1
+12 1
+networld 1
+frg 1
+andreas@appel012hydromechuni-hannoverde 2
+x-newsreader 1
+xelm 1
+mailreader 1
+there 1
+pl4 1
+subroutine 1
+yellow 1
+andreas@veeblehande 1
+university 1
+andreas 1
+all 1
+dunker 2
+live 1
+beatles 1
+tin 1
+hannover 1
+
+

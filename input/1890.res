@@ -1,0 +1,36 @@
+help 1
+denver 1
+math 1
+line 1
+sci 1
+i'm 1
+organization 1
+subject 1
+looking 1
+char 1
+from 1
+plotting 1
+cristiano 1
+create 1
+appreciated 1
+unsigned 1
+window 1
+code 1
+source 2
+will 1
+comp 1
+university 1
+verondini 1
+image 2
+any 1
+sample 1
+2dim 1
+actually 1
+hi 1
+how 1
+matrix 1
+dept 1
+needed 1
+cverond@nyxcsduedu 1
+
+

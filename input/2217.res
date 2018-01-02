@@ -1,0 +1,37 @@
+68sec811e2 1
+ulan 3
+mc68sec811e2 1
+line 1
+68hc811e2 1
+i'm 1
+organization 1
+stand 1
+sec 1
+subject 1
+from 1
+figure 1
+about 1
+engineering 1
+specifically 1
+out 1
+for 1
+trying 1
+nntp-posting-host 1
+distribution 1
+ulan@eeualbertaca 3
+eigeneeualbertaca 1
+---- 1
+alberta 1
+university 1
+what 3
+all 1
+ve6dau 1
+na 1
+know 1
+electrical 1
+reply-to 1
+doe 1
+part 1
+dale 3
+
+

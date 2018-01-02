@@ -1,0 +1,36 @@
+florida 2
+anyone 1
+help 2
+support 1
+here 1
+advance 1
+line 1
+organization 1
+subject 1
+read 1
+sun 1
+rene 1
+has 1
+tracy@csucfedu 1
+university 2
+keyword 1
+on 1
+give 1
+tracy 2
+xdm 4
+recently 1
+patch 2
+number 1
+central 2
+from 1
+was 1
+distribution 1
+thank 1
+wondering 1
+comp 1
+tolley 2
+summary 1
+solaris21 4
+technical 1
+
+

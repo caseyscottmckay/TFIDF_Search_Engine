@@ -1,0 +1,34 @@
+thanks 1
+much 1
+anyone 1
+help 1
+square 1
+animated 1
+start 2
+hearing 1
+subject 1
+don't 1
+save 1
+someone 1
+this 1
+about 1
+flash 2
+program 1
+one 1
+linux 2
+tell 1
+lot 2
+graphic 1
+good 1
+anything 1
+but 1
+yet 1
+doing 1
+route 2
+telling 1
+know 2
+keep 1
+to 1
+money 1
+
+

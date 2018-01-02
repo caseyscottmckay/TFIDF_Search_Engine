@@ -1,0 +1,32 @@
+new 1
+hassle 1
+assistance 1
+where 1
+upgrade 1
+not 1
+get 1
+i'm 1
+purchase 1
+that 1
+director 2
+compile 1
+window 2
+time 2
+there 1
+whole 1
+play 1
+sound 1
+any 2
+played 1
+done 1
+product 1
+when 1
+how 1
+doe 1
+to 1
+oversea 1
+macromedia 1
+present 1
+correctly 1
+
+

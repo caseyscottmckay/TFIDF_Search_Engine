@@ -1,0 +1,30 @@
+help 1
+inductance 1
+20volt 1
+connected 1
+cheer 1
+4khz 1
+150omh 1
+variable 1
+q-factor 1
+current 2
+any 1
+ethe 1
+capacitor 1
+minimmum 1
+resistance 2
+supply 2
+bdynamic 1
+csupply 1
+capacitance 1
+avalue 1
+dthe 1
+condition 1
+bandwidth 1
+coil 1
+parallel 1
+determine 1
+across 1
+the 1
+
+

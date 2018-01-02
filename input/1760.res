@@ -1,0 +1,37 @@
+right 1
+net 1
+token 1
+macs 1
+rit 1
+advance 1
+card 1
+line 1
+organization 1
+ring 1
+bringing 1
+subject 1
+looking 1
+someone 1
+from 1
+token-ring 1
+ridley 1
+for 1
+macintosh 1
+information 1
+cpus 1
+recommendationsexperience 1
+nntp-posting-host 1
+-tom 1
+distribution 1
+thank 1
+onto 1
+usa 1
+corp 1
+thoma 1
+mutsurcritedu 1
+trrrc@rcritedu 1
+research 1
+point 1
+direction 1
+
+

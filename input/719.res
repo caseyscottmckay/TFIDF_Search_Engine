@@ -1,0 +1,37 @@
+entire 1
+line 1
+rocket 1
+organization 1
+subject 1
+15 1
+tell 1
+there 1
+adress 1
+your 2
+you 2
+university 1
+dear 1
+hockey 1
+e8l6@jupitersuncsdunbca 1
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 1
+thanks 1
+maurice 1
+new 1
+mail 1
+recsporthockey 1
+richard 1
+dotted 1
+decimal 1
+address 1
+get 1
+from 1
+brunswick 1
+even 1
+distribution 1
+seem 1
+montana@pinetreeorg 1
+rocket@calvincsunbca 1
+pool 1
+131202310 1
+
+

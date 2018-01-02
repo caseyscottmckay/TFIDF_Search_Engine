@@ -1,0 +1,32 @@
+ports 1
+change 3
+under 1
+wakeuping 1
+rtc 2
+alarm 3
+not 1
+wana 1
+this 1
+able 1
+standard 1
+wakeup 2
+about 1
+alaram 1
+work 2
+winxp 1
+program 2
+71h 1
+70h 1
+wich 1
+setting 1
+used 1
+write 1
+won't 1
+metod 1
+value 2
+know 2
+option 1
+how 1
+doesn't 2
+
+

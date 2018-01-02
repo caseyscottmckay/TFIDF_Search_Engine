@@ -1,0 +1,36 @@
+anyone 1
+press 1
+card 2
+rumor 2
+line 1
+full 1
+organization 1
+subject 1
+riggins 1
+pds 1
+has 1
+force 1
+bus 1
+air 1
+any 2
+technology 1
+lciii 2
+maurice 2
+now 1
+releas 1
+heard 1
+from 1
+batafitafmil 1
+announcements 1
+nntp-posting-host 1
+seen 1
+cache 2
+internet 1
+lriggins@afitafmil 2
+summary 1
+data 1
+institute 1
+width 1
+slot 1
+
+

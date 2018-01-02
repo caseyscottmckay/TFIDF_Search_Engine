@@ -1,0 +1,30 @@
+thanks 1
+world 1
+say 1
+line 1
+organization 1
+subject 1
+this 1
+from 1
+schlatter 1
+access 1
+newsgroup 2
+public 1
+anywhere 1
+archived 1
+thoma 1
+unix 1
+beyond 1
+paladin@worldstdcom 2
+brookline 1
+normal 1
+month 1
+ma 1
+archive 1
+last 1
+more 1
+expiration 1
+date 1
+tom 1
+
+

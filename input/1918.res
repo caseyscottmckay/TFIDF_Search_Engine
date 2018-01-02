@@ -1,0 +1,36 @@
+seattle 1
+chris 1
+apple 1
+system 1
+rumor 1
+80x86's 1
+working 1
+like 1
+say 1
+meaduwashingtonedu 1
+line 1
+article-id 1
+stupid 1
+organization 1
+win 1
+see 1
+subject 1
+this 1
+from 1
+was 1
+os2 1
+ricci 1
+nntp-posting-host 1
+christian 1
+platform 1
+university 1
+forgive 1
+newsman@meaduwashingtonedu 1
+news1t9govinn7qo 1
+washington 1
+somewhere 1
+didn't 1
+intel 1
+head-to-head 1
+
+

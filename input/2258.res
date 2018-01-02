@@ -1,0 +1,37 @@
+raj 1
+disk 3
+offer 1
+lohia 1
+-raj 1
+line 1
+full 1
+st41200n 1
+organization 1
+subject 1
+this 1
+10 1
+model 1
+brand 1
+never 1
+your 1
+used 1
+ca 1
+inc 1
+seagate 1
+scsi2 1
+new 1
+formatted 1
+12gb 2
+apple 1
+lohia@bharatauxapplecom 1
+cupertino 1
+computer 1
+sale 2
+from 1
+size 1
+distribution 1
+usa 1
+send 1
+lohia@applecom 1
+
+

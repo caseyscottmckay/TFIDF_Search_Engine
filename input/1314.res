@@ -1,0 +1,35 @@
+while 1
+line 1
+commentator 1
+stink 1
+thing 1
+organization 1
+only 1
+subject 1
+from 1
+was 1
+real 2
+treated 2
+burnaby 1
+fraser 1
+canada 2
+telecast 1
+surrey 1
+play-by-play 1
+channel 1
+else 1
+everyone 1
+rogers 1
+godfather 2
+seem 1
+simon 1
+whitman 1
+people 1
+university 1
+doing 1
+abc 2
+two 1
+don 1
+boora@kitssfuca 1
+
+

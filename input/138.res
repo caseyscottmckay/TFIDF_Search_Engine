@@ -1,0 +1,34 @@
+latonia 1
+western 1
+iti 1
+virusit 1
+case 1
+sam 1
+floppyburn 1
+line 1
+ohio 1
+ab245@clevelandfreenetedu 1
+cleveland 1
+think 1
+organization 1
+subject 1
+don't 2
+called 1
+from 1
+was 1
+read 1
+windowscrash 1
+installed 1
+nntp-posting-host 1
+copy 1
+usa 1
+goshi 1
+just 2
+university 1
+slc4inscwruedu 1
+dos6 1
+love 1
+test 1
+reserve 1
+
+

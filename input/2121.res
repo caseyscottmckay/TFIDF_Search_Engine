@@ -1,0 +1,36 @@
+developed 1
+answer 1
+tms34020 1
+xserver 2
+instrument 1
+arana 1
+specially 1
+jose 1
+line 1
+sources 1
+organization 1
+subject 1
+from 1
+implemented 1
+about 1
+luis 1
+information 1
+please 1
+interested 1
+nntp-posting-host 1
+public 1
+xpert@expolcsmitedu 1
+enterpoopmitedu 1
+graphic 3
+send 1
+internet 1
+arana@labeines 2
+how 1
+documentation 1
+texa 1
+processor 1
+obtain 1
+accelerators 1
+processors 1
+
+

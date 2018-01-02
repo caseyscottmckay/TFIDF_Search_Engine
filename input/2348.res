@@ -1,0 +1,34 @@
+anyone 2
+here 2
+enough 1
+someone 1
+such 1
+want 1
+has 2
+there 1
+an 1
+know 1
+how 1
+to 2
+usefull 1
+tried 1
+build 3
+info 1
+experience 1
+12v 1
+digital 1
+apparatu 1
+supply 1
+work 1
+ever 1
+one 1
+fit 1
+find 1
+video 2
+recorder 2
+robot 1
+building 1
+portable 1
+perhap 1
+
+

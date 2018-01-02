@@ -1,0 +1,36 @@
+nec 1
+faq 1
+arbor 1
+apple 1
+richard 1
+michigan 1
+must 1
+very 1
+line 1
+tpeng@livyccsitdumichedu 1
+timothy 1
+better 1
+organization 1
+subject 1
+this 1
+from 2
+well 1
+pretty 1
+nntp-posting-host 1
+monitor 2
+day 1
+13rgb 1
+your 1
+nice 1
+tpeng@umichedu 2
+livyccsitdumichedu 1
+university 1
+first 1
+ann 1
+reply-to 1
+peng 1
+are 1
+4fg3fgx 1
+originator 1
+
+

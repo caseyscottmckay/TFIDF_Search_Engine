@@ -1,0 +1,32 @@
+anyone 1
+every 2
+exactly 1
+grateful 1
+need 1
+number 1
+same 2
+i'd 1
+i'm 1
+them 3
+this 1
+way 3
+after 1
+file 1
+large 1
+multi-page 1
+pointer 1
+ideally 1
+shove 1
+tiff 1
+folder 1
+image 1
+what 1
+any 1
+all 1
+cropped 1
+give 1
+crop 1
+page 1
+have 1
+
+

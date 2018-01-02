@@ -1,0 +1,36 @@
+chen@nuclearmedbcmtmcedu 1
+chenlin 1
+init 1
+not 1
+line 1
+shareware 1
+baylor 1
+nuclearmedbcmtmcedu 1
+get 1
+organization 1
+chen 1
+subject 1
+from 1
+driven 1
+than 1
+480 1
+maxapplezoom 1
+video 1
+nntp-posting-host 1
+monitor 3
+distribution 1
+medicine 1
+chen@nuclearbcmtmcedu 1
+resolution 1
+your 1
+keyword 1
+college 1
+8*24 1
+internal 1
+na 1
+640 1
+more 1
+reply-to 1
+try 1
+
+

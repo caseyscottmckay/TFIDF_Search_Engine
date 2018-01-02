@@ -1,0 +1,31 @@
+advice 1
+much 1
+486dx 1
+card 2
+drive 1
+line 1
+jimmy 2
+organization 1
+see 1
+subject 1
+controller 2
+got 1
+bus 1
+25mhz 1
+college 2
+speed 1
+ide 1
+buddenberg 2
+in 1
+local 1
+muskingum 2
+should 1
+vesa 2
+need 1
+get 1
+from 1
+increase 1
+internet 1
+jbuddenberg@vaxcnsmuskingumedu 2
+
+

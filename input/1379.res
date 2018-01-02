@@ -1,0 +1,32 @@
+change 1
+year 1
+statu 1
+$15 1
+light 3
+off 1
+don't 1
+turn 1
+coming 1
+about 1
+want 1
+old 1
+work 1
+tend 1
+great 1
+itself 1
+since 1
+asking 1
+sorry 1
+people 2
+switch 1
+sens 1
+what 1
+game 1
+door 1
+my 1
+know 1
+simply 1
+to 1
+bathroom 2
+
+

@@ -1,0 +1,34 @@
+thanks 1
+business 1
+where 1
+line 1
+call 1
+egan 2
+higher 1
+could 1
+get 1
+i'm 1
+organization 1
+them 2
+subject 1
+xterm 3
+someone 1
+from 1
+pl19 1
+egan@phony25ccutahedu 1
+egan%phony25ccutahedu@hellgateutahedu 2
+please 1
+tell 1
+x11r5 1
+e-mail 1
+patche 1
+keyword 1
+current 1
+look 1
+color 3
+me 1
+reply-to 1
+ford 2
+systems 1
+
+

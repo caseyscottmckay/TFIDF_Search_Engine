@@ -1,0 +1,31 @@
+andrei@labomathuniv-orleansfr 1
+andrei 1
+andrew 1
+switched-capacitor 1
+like 1
+line 1
+yakovlev 1
+france 1
+organization 1
+subject 1
+popular 1
+type 1
+reference 1
+university 1
+their 1
+ics 2
+all 1
+know 1
+thanks 1
+etc 1
+from 1
+price 1
+wanted 1
+channel 1
+great 1
+capabilities 1
+what 1
+orlean 1
+filter 1
+
+

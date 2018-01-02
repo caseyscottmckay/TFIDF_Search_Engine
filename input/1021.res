@@ -1,0 +1,37 @@
+washington 1
+video 1
+nntp-posting-host 1
+seattle 1
+pnw 1
+umeister@uwashingtonedu 2
+card 1
+shelley1r2p1pinnp6 1
+umeister@hardyuwashingtonedu 1
+well 1
+organization 1
+name 1
+starfleet 1
+chip 1
+color 2
+hardyuwashingtonedu 1
+quadtel 1
+distribution 1
+suffice 1
+drivers 1
+subject 1
+line 1
+command 1
+chipset 1
+used 1
+type 1
+function 1
+appreciate 1
+article-id 1
+from 2
+driver 2
+cica 1
+university 1
+reply-to 1
+256 2
+
+

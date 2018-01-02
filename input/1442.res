@@ -1,0 +1,32 @@
+possibly 1
+problem 1
+several 1
+sony 2
+can't 1
+now 1
+light 1
+machine 1
+this 2
+read 1
+properly 1
+out 1
+fine 1
+time 1
+else 1
+play 1
+goe 1
+come 2
+sound 1
+cds 2
+cdp-cx455 1
+what 1
+player 1
+any 1
+all 1
+month 1
+everywhere 1
+playing 2
+mp3 3
+filename 1
+
+

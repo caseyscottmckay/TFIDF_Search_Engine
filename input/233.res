@@ -1,0 +1,33 @@
+aa341@freenetcarletonca 2
+anyone 1
+|aa341@freenetcarletonca 1
+line 1
+organization 1
+subject 1
+hughes 2
+14 1
+recording 2
+national 2
+required 1
+freenet 2
+know 1
+reply-to 1
+thanks 1
+capital 2
+|ve3 1
+where 1
+hughe 1
+from 1
+for 1
+secretary 1
+find 1
+sound 2
+mac 2
+what 1
+hardware 1
+doe 1
+portable 2
+david 3
+tkp 1
+
+

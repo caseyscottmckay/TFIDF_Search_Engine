@@ -1,0 +1,35 @@
+role 1
+plusminu 2
+ridiculous 1
+involved 1
+jagr 1
+line 1
+minu 1
+another 1
+department 1
+organization 1
+subject 1
+from 1
+francis 1
+toronto 1
+out 1
+compare 2
+one 1
+with 1
+time 1
+stat 1
+plu 1
+absurd 1
+golchowy@alchemychemutorontoca 1
+meaningless 1
+olchowy 1
+university 1
+players' 1
+chemistry 1
+player 2
+gerald 2
+playing 1
+statistic 1
+context 1
+
+

@@ -1,0 +1,36 @@
+illegal 1
+upgraded 1
+worked 2
+drive 1
+years 1
+searched 1
+key 1
+they 1
+don't 1
+registry 1
+these 1
+side 1
+added 1
+anything 1
+paint 4
+left 1
+hard 1
+forum 1
+icon 1
+none 1
+now 1
+deleted 1
+why 1
+operation 1
+from 1
+'cause 1
+work 2
+fine 1
+bigger 1
+come 1
+win98 1
+doe 1
+didn't 1
+win98se 1
+
+

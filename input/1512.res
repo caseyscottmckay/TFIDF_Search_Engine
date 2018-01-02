@@ -1,0 +1,35 @@
+samplerrack 1
+cheap 3
+card 1
+line 1
+ohio 1
+state 1
+something 1
+keyboard 1
+i'm 2
+set 1
+organization 1
+subject 1
+looking 1
+similar 1
+relative 1
+from 1
+bottommagnusacsohio-stateedu 1
+bennett 1
+macintosh 1
+trying 1
+nntp-posting-host 1
+audiomedia 1
+distribution 1
+sound 1
+university 1
+dabennet@magnusacsohio-stateedu 1
+what 1
+studio 1
+na 1
+personal 1
+course 1
+david 1
+lookingmusic 1
+
+

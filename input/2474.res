@@ -1,0 +1,35 @@
+line 1
+organization 1
+subject 1
+looking 1
+oentung 1
+controller 2
+friend 1
+project 1
+eoentung@cbiscom 1
+you 2
+buy 1
+university 1
+college 1
+pepsiengumdedu 1
+park 1
+contact 1
+maryland 1
+through 1
+glue 1
+email 1
+who 1
+sale 1
+ehud 2
+from 1
+wanted 1
+please 1
+one 1
+nntp-posting-host 1
+distribution 1
+thanx 1
+usa 1
+ehud@engumdedu 2
+mfm 2
+
+
